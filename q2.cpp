@@ -1,5 +1,5 @@
 int main() {
-  int n1, n2;
+  int n1;
   cout << "enetr your number";
   cin >> n1 ;
   if (n1 %2==0) {
