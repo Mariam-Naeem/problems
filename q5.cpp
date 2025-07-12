@@ -5,7 +5,10 @@ cin>>n1>>n2;
 if(n1<n2){
     cout<<"max is "<<n2<<endl;
 }
-else{
+else if(n1>n2){
     cout<<"max is "<<n1<<endl;
+}
+else{
+    cout<<"both number equal";
 }
 }
